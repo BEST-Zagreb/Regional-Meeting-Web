@@ -50,3 +50,9 @@ content left in place.
 The content, images and copy belong to BEST Zagreb. Third-party theme and plugin assets under
 `wp-content/` remain under their own licences and are included only because the pages need them to
 render as they originally did.
+
+## Wayback Machine
+
+The site ran at <https://best.hr/rm/>. The Internet Archive's calendar for it is <https://web.archive.org/web/*/https://best.hr/rm/*>.
+Checked on 2026-09-11: the archive held nothing under best.hr/rm/, not a single URL, before a capture of both pages was requested that day.
+This repository is the complete copy of the site as it was frozen; whatever the archive holds from now on is a partial, independent second copy.
